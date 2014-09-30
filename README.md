@@ -12,3 +12,7 @@ test
 4）请把代码放到github上，以便我们评价。
 5）你可以使用任何Web框架
 6）加分项：把代码部署到服务器上，并可以通过服务器的80端口访问。
+
+数据库文件是：db.sql 用了mysql
+api接口：/api.index?action=statistic
+配置数据库请修改：config.php
